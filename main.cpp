@@ -6,7 +6,7 @@ int main() {
     int n;
     double fact = 1;
 
-    cout << "Introduce un n umero enter o: " << endl;
+    cout << "Introduce un numero entero: " << endl;
     cin >> n;
 
     for(int i = 0; i < n; i++){
